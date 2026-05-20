@@ -1,17 +1,13 @@
 # MS-4019 Operations Persona
 Demos for Operations Persona 
-✅ Demo Setup (before class – 2 mins)
-Use any of these (pick ONE so it’s smooth):
 
-✅ Option A (easiest): Use sample Excel/CSV with:
+Demo Setup (before class – 2 mins)
+Use any of these
 
+Option A (easiest): Use sample Excel/CSV with:
 Columns: Ticket ID, Issue, Status, Delay Reason, System
-
-
-✅ Option B: Use fake emails or Teams messages
-✅ Option C: Just type the scenario into Copilot (no data) → works fine for storytelling
-
-👉 For your style, I’d recommend Option C + light storytelling (Contoso Ops) so no risk.
+Option B: Use fake emails or Teams messages
+Option C: Just type the scenario into Copilot (no data) → works fine for storytelling
 
 🎯 Demo Flow (Step-by-step you click + say)
 STEP 0 – Start the demo
@@ -24,7 +20,6 @@ Switch to or reference Researcher agent (if available)
 Say this:
 
 “Let’s walk through how an operations manager would use this in a real day.”
-
 
 STEP 1 — Context (Paste prompt)
 ✅ Prompt:
