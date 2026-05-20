@@ -1,6 +1,7 @@
 # MS-4019 Operations Persona
 **Demos for Operations Persona **
 
+**Research Demo**
 Demo Setup (before class – 2 mins)
 Use any of these
 
@@ -101,3 +102,129 @@ Use these as callouts:
 “I didn’t need perfect data—just a clear question”
 “This is replacing analysis + reporting in minutes”
 
+**Analyst Demo**
+✅ Demo 2 – Analyst Agent (Step-by-step)
+🎯 Goal of this demo
+Show how Copilot can:
+
+Analyse performance
+Identify trends
+Highlight risks
+Produce a leadership-style summary (dashboard feel)
+
+✅ Demo Setup (pick one)
+✅ Best option (easy + reliable)
+
+Use Copilot Chat only
+No real dataset needed → use scenario-based prompting
+
+✅ Optional upgrade (if you want visuals)
+
+Open an Excel file with columns like:
+
+Region, Tickets, Downtime, Response Time
+👉 Copilot will generate more structured insights
+
+
+🎬 LIVE DEMO FLOW (click + say)
+
+🔹 STEP 0 – Set the story (10 sec)
+🎤 Say:
+
+“Now instead of just understanding issues, let’s analyse performance across the business.”
+
+Open:
+
+Copilot Chat
+
+🔹 STEP 1 — Overview
+✅ Prompt:
+Analyze operational performance across all regions this quarter.
+Focus on service delivery, downtime, and response times.
+Provide a high-level summary.
+
+🎤 What to say:
+
+“First, I’m asking for an overview across the business.”
+“Think of this as your leadership-level summary.”
+
+✅ Call out:
+
+High-performing regions
+Low-performing areas
+
+
+🔹 STEP 2 — Trends
+✅ Prompt (follow-up):
+Identify trends in service delays, downtime, and response times.
+Highlight any patterns or changes over time.
+
+🎤 What to say:
+
+“Now I’m shifting from overview → trends.”
+“This is where you normally need dashboards.”
+
+✅ Highlight:
+
+Increasing delays
+Recurring spikes
+Performance dips
+
+
+🔹 STEP 3 — Risks
+✅ Prompt:
+Highlight operational risks that could impact delivery performance.
+Explain why these are risks.
+
+🎤 What to say:
+
+“Now we move from insight → risk.”
+“This is what leaders actually care about.”
+
+✅ Call out:
+
+Bottlenecks
+Overloaded regions
+System reliability issues
+
+
+🔹 STEP 4 — Output (dashboard-style)
+✅ Prompt:
+Create a dashboard-style summary with:
+- Key insights
+- Trends
+- Risks
+- Recommendations
+Keep it clear and concise for leadership.
+
+🎤 What to say:
+
+“This replaces building a report or dashboard manually.”
+“I’m asking Copilot to present this in a leadership-ready format.”
+
+✅ Scroll + show:
+
+Sections
+Clean structure
+Actionable insights
+
+
+💥 Optional WOW moment (high impact)
+Add:
+Turn this into a one-slide executive summary I can present.
+
+OR
+Summarize this into 5 key takeaways for leadership.
+
+👉 This shows:
+
+Output transformation
+Executive readiness
+
+🧠 Teaching points to reinforce (while demoing)
+Use these as callouts:
+
+“Notice how each step builds on the last”
+“I didn’t open Power BI or Excel dashboards”
+“This is analysis, not just summarization”
+“We went from raw thinking → executive output in minutes”
