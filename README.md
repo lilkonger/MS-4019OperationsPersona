@@ -1,5 +1,5 @@
-<b># MS-4019 Operations Persona</b>
-<b>**Delivery Instructions for Operations Persona MS-4019 Scale **</b>
+<b>MS-4019 Operations Persona</b>
+<b>Delivery Instructions for Operations Persona MS-4019 Scale </b>
 
 <b>**How to Deliver**</b>
 1. Download deck for the class - coming soon 
