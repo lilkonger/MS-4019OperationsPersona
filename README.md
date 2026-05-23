@@ -1,7 +1,7 @@
-# MS-4019 Operations Persona
+<b># MS-4019 Operations Persona</b>
 **Demos for Operations Persona **
 
-**Research Demo**
+<b>**Research Demo**</b>
 Demo Setup (before class – 2 mins)
 Use any of these
 
